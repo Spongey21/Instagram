@@ -43,6 +43,9 @@ Reels har informationer omkring video'en
 
 
 # *Stories*
+## Navigation
+**Max Maximilius**, jeg vil gerne kunne navigere mellem min profil of startsiden, det skyles at jeg er dopamin afhængig
+
 ## Reels og Opslag
 **Max Maximilius**, jeg vil se reels og opslag fra andre i større mængder, fordi jeg er afhængig.
 
@@ -63,6 +66,14 @@ Reels har informationer omkring video'en
 
 # *Tasks*
 ## Task 1
+### Navigation
+- Placeres fast i bunden af skærmen
+- Fylder hele bredden
+- Home side ikon
+- Bio side ikon
+- Reels side ikon
+- Rød bar under nuværende ikons side
+## Task 2
 ### *Reels*
 - Kort video format
 - Uendelig scroller
@@ -84,11 +95,11 @@ Reels har informationer omkring video'en
 - Opslaget skal vise snippets af de seneste kommentarer
 - Opslaget skal kunne deles
 - Opslaget skal have en **elipsis** funktion
-## Task 2
+## Task 3
 ### Filtering
 - Forsiden skal have en knap der åbner en dropdown-menu
 - dropdown-menuen skal have muligheder til at skifte mellem indhold tilpasset til dig, og indhold tilhørende dem du følger.
-## Task 3
+## Task 4
 ### Indbakke
 - Søgning efter brugere ved hjælp af et søge felt
 - Søgning efter brugere ved hjælp af en lodret slider
@@ -102,17 +113,19 @@ Reels har informationer omkring video'en
 - Der skal kunne sendes snippets af tale beskeder
 - Alle funktions muligheder skal foreholde sig til toppen- og bunden af skærmen
 - Der skal være mulighed for at se hele korrespondancen mellem to brugere
-## Task 4
+## Task 5
 ### Elipsis
 - åbne en menu
 - Anmeld knap i menuen
 - Skjul knap i menuen
-## Task 5
+## Task 6
 ### Stories
 - Slider med touch
 - Slideren elementerne skal være i cirkel form og indeholde brugerens profil billede
 - Stories åbnes ved at blive klikket på
-## Task 6
-### Følger
+## Task 7
+### Bio
 - en tæller der viser hvem der følger dig, som lægger i bio
 - en tæller der viser hvem du følger, som lægger i bio
+- Brugerens profil billede skal vises
+- dine opslag skal vises laves i rækkeform
