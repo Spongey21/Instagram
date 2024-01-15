@@ -1,3 +1,11 @@
+## Navigation - Velocity 21
+- Placeres fast i bunden af skærmen - 5
+- Fylder hele bredden - 5
+- Home side ikon - 2
+- Bio side ikon - 2
+- Reels side ikon - 2
+- Rød bar under nuværende ikons side - 5
+
 ## Reels - Velocity 118
 - Video'en fyler hele af skærmen - 5
 - Video'en skal slukke lyden ved touch tryk - 5
@@ -43,6 +51,8 @@ dropdown-menuen skal have muligheder til at skifte mellem indhold tilpasset til 
 - Slideren elementerne skal være i cirkel form og indeholde brugerens profil billede - 8
 - Slider med touch - 13
 - Stories åbnes ved at blive klikket på - 13
-## Følger - Velocity 68
+## Bio - Velocity 86
 - en tæller der viser hvem der følger dig, som lægger i bio - 34
 - en tæller der viser hvem du følger, som lægger i bio - 34
+- Brugerens profil billede skal vises - 5
+- dine opslag skal vises laves i rækkeform - 13
